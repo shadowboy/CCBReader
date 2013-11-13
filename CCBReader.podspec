@@ -1,9 +1,8 @@
 Pod::Spec.new do |s|
   s.name     = 'JSONKit'
-  s.version  = '1.6'
-  s.summary  = 'A Very High Performance Objective-C JSON Library.'
-  s.homepage = 'https://github.com/johnezang/JSONKit'
-  s.author   = 'John Engelhart'
-  s.source   = { :git => 'https://github.com/creativemess/JSONKit.git' }
-  s.source_files = 'JSONKit.*'
+  s.version  = '1.0'
+  s.summary  = 'CCBReader for CocosBuilder 2.1.x.'
+  s.homepage = 'https://github.com/shadowboy/CCBReader'
+  s.author   = 'Andy Cho'
+  s.source   = { :git => 'https://github.com/shadowboy/CCBReader.git' }
 end
