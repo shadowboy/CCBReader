@@ -7,5 +7,5 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/shadowboy/CCBReader'
   s.author   = 'Andy Cho'
   s.source   = { :git => 'https://github.com/shadowboy/CCBReader.git', :tag => "v2.1.0" }
-  s.source_files = 'CCBReader/', 'CCControlExtension/','CCScrollView/','SSZipArchive/'
+  s.source_files = 'CCBReader/**/*.{h,m}', 'CCControlExtension/**/*.{h,m}','CCScrollView/*.{h,m}','SSZipArchive/**/*.{h,m,c}'
 end
