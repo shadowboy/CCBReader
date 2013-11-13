@@ -1,6 +1,8 @@
 Pod::Spec.new do |s|
   s.name     = 'CCBReader'
   s.version  = '1.0'
+  s.platform = :ios, '5.0'
+  s.requires_arc = false
   s.summary  = 'CCBReader for CocosBuilder 2.1.x.'
   s.homepage = 'https://github.com/shadowboy/CCBReader'
   s.author   = 'Andy Cho'
