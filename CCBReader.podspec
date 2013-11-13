@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'JSONKit'
+  s.name     = 'CCBReader'
   s.version  = '1.0'
   s.summary  = 'CCBReader for CocosBuilder 2.1.x.'
   s.homepage = 'https://github.com/shadowboy/CCBReader'
